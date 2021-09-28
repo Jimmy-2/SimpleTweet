@@ -33,9 +33,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://raw.githubusercontent.com/Jimmy-2/SimpleTweet/master/SimpleTweetPt1.gif' title='SimpleTweet App Walkthrough' width='' alt='SimpleTweet App Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+MP4 created with [OBS](https://obsproject.com/).
+MP4 converted to Gif with [Imgur](https://imgur.com/).
 
 ## Notes
 
